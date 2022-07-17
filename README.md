@@ -8,6 +8,7 @@ um sistema de locação de produtos ortopédico para um cliente real em C#.
 
 
 ||| Estudos
+
 Atualmente estou focado no desenvolvimento web em si. Possuo domínio do HTML5 e CSS3 e 
 algum conhecimento em JavaScript. Porém, pretendo me aprimorar na linguagem JavaScript.
 Por isso, crio desafios para que eu possa desenvolver alguma função sem realizar muitas
@@ -18,6 +19,7 @@ já tenho algum conhecimento) para que eu possa me tornar um desenvolvedor FullS
 de qualidade.
 
 ||| Projetos
+
 Você pode encontrar todos os meus projetos concluídos aqui no meu perfil do GitHub,
 incluindo os que ainda estão em desenvolvimento.
 
